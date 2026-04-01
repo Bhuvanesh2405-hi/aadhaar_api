@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+fastai
+torch
+torchvision
+pillow
+numpy==1.26.4
+python-multipart
+cloudpickle
