@@ -1,7 +1,7 @@
 import requests
 import base64
 
-BASE_URL = "http://127.0.0.1:8001"
+BASE_URL = "https://your-live-api-url"
 
 IMAGE_PATH = "sample_aadhaar.jpg"
 
